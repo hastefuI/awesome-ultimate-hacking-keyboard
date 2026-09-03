@@ -97,6 +97,7 @@ The line includes the UHK 60 and UHK 80, add-on pointing modules, Agent (the con
 
 ## Tools
 
+- [uhkm](https://github.com/hastefuI/uhkm) - CLI to lint and format Ultimate Hacking Keyboard Macro (`.uhkm`) files against the UHKM specification, with auto-fix and per-directory TOML configuration.
 - [uhk-learn-layout](https://github.com/mhantsch/uhk-learn-layout) - Generate an Agent macro that probes the host layout so the UHK can learn it.
 
 ## Tutorials
